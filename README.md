@@ -11,7 +11,7 @@
 let mona = {
   Name = "Mona Celeste Panchaud"
   Pronouns = [ She; Her ]
-  Code = [ ``F#``; CSS; TypeScript; JavaScript; LaTeX ]
+  Code = [ ``F#``; CSS; LaTeX; JavaScript ]
   Tools = [ Rider; React; Fable; Feliz; Elmish; Expecto ]
   OutsideOfCode = [ "🪡🧵"; "🏊‍♀️"; "📚"; "🚴‍♀️"; "⛰️";  ]
 }
