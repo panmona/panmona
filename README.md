@@ -26,7 +26,7 @@ If you're interested in the types that make the above F# code compile, see below
 ```fsharp
 type Pronoun = She | Her | He | Him | They | Them
 
-type Language = ``F#`` | CSS | TypeScript | JavaScript | LaTeX
+type Language = ``F#`` | CSS | JavaScript | LaTeX
 
 type Tool = Rider | React | Fable | Feliz | Elmish | Expecto
 
