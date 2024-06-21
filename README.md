@@ -1,6 +1,7 @@
 <h2> Hey, I'm Mona! 🌺 </h2>
 <img align='right' src="https://media3.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif?cid=ecf05e47k92frft9hvl705cplk154nfh8n44p8go9fv7uvhc&rid=giphy.gif&ct=s" width="200">
 <p><em>
+    - Software Engineer at <a href="https://www.isolutions.ch/">isolutions</a> <br>
     - Librarian & Software Engineer at <a href="https://www.haz.ch/bibliothek/">Bibliothek im Regenbogenhaus</a> <br>
     - Computer Science Student at <a href="https://www.ost.ch">Eastern University of Applied Sciences</a>
 </em></p>
