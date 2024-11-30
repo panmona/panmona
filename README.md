@@ -11,7 +11,7 @@
 
 ```fsharp
 let mona = {
-  Name = "Mona Celeste Panchaud"
+  Name = "Mona Celeste"
   Pronouns = [ She; Her ]
   Code = [ ``F#``; ``C#``; TypeScript; CSS; LaTeX ]
   Tools = [ Rider; React; Fable ]
